@@ -1,0 +1,1 @@
+# The-proram-will-genrate-a-golden-nominal-using-our-sample-data-set
